@@ -15,7 +15,7 @@ chat-app/
 
 ### Front-end (React + Redux + TypeScript)
 
-1. Navigate to the `client` directory and install typescript template and redux toolkit , if want to use tailwind then insatll tailwind:
+1. Navigate to the `client` directory and install typescript template and redux toolkit , if want to use tailwind then install tailwind:
    ```
    cd client
    npx create-react-app . --template typescript
